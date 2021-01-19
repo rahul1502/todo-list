@@ -64,6 +64,15 @@ form button:hover {
   form input {
     width: 40%;
   }
+
+  .filter-todo {
+    padding: 1rem;
+    width: 80%;
+  }
+
+  .select {
+    min-width: 12rem;
+  }
 }
 
 .todo {
